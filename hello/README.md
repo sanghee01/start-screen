@@ -1,3 +1,0 @@
-# Start screen
-
-Hello user
