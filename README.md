@@ -1,4 +1,4 @@
-# ToDo Service
+# ToDo
 
 ![Todo](img/ToDo.png)
 
